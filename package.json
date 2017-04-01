@@ -5,8 +5,7 @@
   "main": "cfe.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "npm version patch",
-    "publish": "npm publish"
+    "publish": "git add . && git commit -m \"v0.0.7\" && npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
