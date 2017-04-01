@@ -2,11 +2,11 @@
 Check the extension of any file being transported to your module via **extra-terrestial tunnels**, or, as the folks call it, **terminal**. (I am not sorry, Microsoft.)
 
 ## Table of Contents
-* [Installation](installation)
-* [Usage](usage)
-* [Examples](examples)
-* [Contributing](contributing)
-* [Legal stuff](legal-stuff)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Examples](#examples)
+* [Contributing](#contributing)
+* [Legal stuff](#legal-stuff)
 
 ## Installation
 
