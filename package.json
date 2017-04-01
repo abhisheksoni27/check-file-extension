@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abhisheksoni27/check-file-extension.git"
+    "url": "https://github.com/abhisheksoni27/check-file-extension"
   },
   "bugs": {
     "url": "https://github.com/abhisheksoni27/check-file-extension/issues",
     "email": "abhishek@codeprose.me"
   },
   "keywords": ["extension", "check", "file","file extension", "check file extension", "which file", "ext"],
-  "homepage": "https://abhisheksoni27.github.io/check-file-extension",
+  "homepage": "http://codeprose.me/check-file-extension",
   "author": "Abhishek Soni",
   "license": "MIT"
 }
