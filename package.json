@@ -5,7 +5,7 @@
   "main": "cfe.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "npm patch",
+    "prepublish": "npm version patch",
     "publish": "npm publish"
   },
   "repository": {
