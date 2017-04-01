@@ -1,0 +1,21 @@
+{
+  "name": "check-file-extension",
+  "version": "0.0.1",
+  "description": "Check file extension",
+  "main": "cfe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhisheksoni27/check-file-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhisheksoni27/check-file-extension/issues",
+    "email": "abhishek@codeprose.me"
+  },
+  "keywords": ["extension", "check", "file","file extension", "check file extension", "which file", "ext"],
+  "homepage": "https://abhisheksoni27.github.io/check-file-extension",
+  "author": "Abhishek Soni",
+  "license": "MIT"
+}
