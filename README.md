@@ -49,7 +49,9 @@ That's it. Go nuts.
 ```js
 cfe('thisismyhouse.txt'); // returns .txt
 ```
+
 2. When the file has established its tent somewhere else:
+
 ```js
 cfe('myHouse/howYouDoin.png'); //returns .png (Also, I am doing fine baby, How you doin'?)
 ```
