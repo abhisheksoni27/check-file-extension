@@ -1,6 +1,6 @@
 {
   "name": "check-file-extension",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Check file extension",
   "main": "cfe.js",
   "scripts": {
