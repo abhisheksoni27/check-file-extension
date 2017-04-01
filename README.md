@@ -58,11 +58,11 @@ cfe('myHouse/howYouDoin.png'); //returns .png (Also, I am doing fine baby, How y
 
 > **Step 1** 
 
-Fork(Fork) this repository.
+Fork(**Fork**) this repository.
 
 > **Step 2**
 
-Clone the forked repository so that you now have a local build of this brilliant tool.
+**Clone** the forked repository so that you now have a local build of this **brilliant tool.**
 
 > **Step 3**
 
@@ -70,13 +70,13 @@ Add brilliance to it.
 
 > **Step 4**
 
-Send a PR. Pull Request, I mean. Ain't no Embassy Office here, all right.
+Send a **PR**. Pull Request, I mean. Ain't no **Embassy Office** here, all right.
 
 ## Legal Stuff
 
 (Because shit might get real)
 
-MIT License
+**MIT License**
 
 Copyright (c) 2017-eternity Abhishek Soni
 
